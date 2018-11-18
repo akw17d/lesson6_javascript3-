@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+11/18/2018
 
 ### Student Name:  
-(First and Last Name)
+Arianna Wittig
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assingment, we created a site that let users navigate through photos of cars.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://akw17d.github.io/lesson6_javascript3-/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Used the if/else function
+2. Used getElementsByTagName function for the images
+3. learned how to put images on the webpage and give users the option to swipe between them, then add more images
 
